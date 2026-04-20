@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
+# Ensure consistent line endings across platforms
 * text=auto
+
+# Treat binary files correctly
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.exe binary
+*.zip binary
+
+# Markdown files use LF
+*.md text eol=lf
+
+# Python files use LF
+*.py text eol=lf
