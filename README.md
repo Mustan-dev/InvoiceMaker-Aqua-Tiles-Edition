@@ -118,6 +118,21 @@ Generated documents include:
 - `InvoiceMaker_windows_x64.zip`  
 
 ---
+## 📦 Releases
+
+This project includes two distribution formats for Aqua Tiles:
+
+### 1. Installer Version (Recommended)
+`InvoiceMaker_Setup.exe`  
+A full Windows installer that creates shortcuts, registers the application, and installs all required files.
+
+### 2. Portable Version
+`InvoiceMaker.zip`  
+A portable build that runs without installation and can be used from any folder or USB drive.
+
+Both versions contain the same application features and are built specifically for the company Aqua Tiles.
+
+---
 
 ## 📦 Dependencies
 
