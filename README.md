@@ -14,10 +14,11 @@ https://mustan.dev/
 
 ---
 
+
 ## 🧩 About This Version
 
-This is a **custom-built edition for Aqua Tiles**, optimized for real-world trade workflows involving product-based billing.
-
+This edition is a custom‑engineered build created exclusively for the company Aqua Tiles.
+It is tailored to their internal workflow, product catalogue, pricing structure, and operational requirements.
 It is designed for:
 
 - Tile and materials invoicing  
