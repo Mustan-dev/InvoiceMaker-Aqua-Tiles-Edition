@@ -151,14 +151,6 @@ Both versions contain the same application features and are built specifically f
 
 ---
 
-## ⚠️ Notes
-
-- This version is specifically designed for Aqua Tiles workflows  
-- PyInstaller may show non-critical `jinja2` warnings during build  
-- These warnings do not affect functionality  
-
----
-
 ## 👨‍💻 Developer
 
 Built by **Mustan-Dev**
